@@ -11,7 +11,8 @@ and reducing time wastages; ensuring high quality software by reducing the risks
 Supporting scalability and performance; Driving innovations; reducing costs and risks.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Software engineering has grown and transformed over the years, thanks to major breakthroughs that have made software development more structured, efficient, and reliable. Here are three game-changing moments that helped shape the industry i.e The Birth of Software Engineering (1968) – Fixing the Chaos
+Software engineering has grown and transformed over the years, thanks to major breakthroughs that have made software development 
+more structured, efficient, and reliable. Here are three game-changing moments that helped shape the industry i.e The Birth of Software Engineering (1968) – Fixing the Chaos
 Back in the 1960s, software development was a bit of a mess. Projects were running over budget, full of bugs, and often ended in failure. This problem became known as the software crisis. In 1968, a NATO conference brought together experts to figure out a solution. That’s when the term software engineering was first introduced—emphasizing that software should be built with the same careful planning and discipline as traditional engineering. This moment was the start of treating software development as a serious, structured profession rather than just trial and error.
 The Rise of Structured Programming (1970s) – Making Code Easier to Manage
 Early computer programs were written in a way that was difficult to read and maintain—earning the nickname spaghetti code because everything was tangled together. To fix this, structured programming became the new standard. It introduced a more organized way of writing code, breaking programs into smaller, reusable parts that made them easier to understand and update. Programming languages like C and Pascal were designed around these principles, making software development much more efficient.
@@ -23,9 +24,10 @@ The Agile Revolution (2001): Instead of long, rigid development cycles, Agile in
 The DevOps Movement (2010s): Development and operations teams started working more closely together, using automation and continuous delivery to speed up software deployment.
 AI and Automation in Software Engineering (2020s): Artificial intelligence is now being used to help developers write, test, and debug code, making software development even faster and smarter.
 
-**List and briefly explain the phases of the Software Development Life Cycle.**
-Software Development Life Cycle (SDLC) is a structured process that ensures the final product is well-designed, functional, and meets user needs. This structured approach is called the , and it includes several key stages:
-
+List and briefly explain the phases of the Software Development Life Cycle.
+Software Development Life Cycle (SDLC) is a structured process that ensures the final product is well-designed, functional, and meets user needs. 
+This structured approach is called the , and it includes several key stages:
+#key stages
 Planning – Laying the Groundwork
 Before jumping into development, teams need a clear plan. This phase involves defining the project’s goals, estimating costs, identifying risks, and mapping out a timeline. A solid plan helps avoid costly mistakes later on.
 
