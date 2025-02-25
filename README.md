@@ -4,10 +4,13 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-**Explain what software engineering is and discuss its importance in the technology industry.**
-Software engineering is the application of engineering principles to create, test, modify and maintain software application involving structured methodologies, programming languages and algorithms. Some of the importance of software engineering include enhancing efficiency and productivity by streamlining workflows and reducing time wastages; ensuring high quality software by reducing the risks of vulnerabilities and bugs; Supporting scalability and performance; Driving innovations; reducing costs and risks.
+Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is the application of engineering principles to create, test, modify and maintain software application involving structured methodologies,
+programming languages and algorithms. Some of the importance of software engineering include enhancing efficiency and productivity by streamlining workflows 
+and reducing time wastages; ensuring high quality software by reducing the risks of vulnerabilities and bugs; 
+Supporting scalability and performance; Driving innovations; reducing costs and risks.
 
-**Identify and describe at least three key milestones in the evolution of software engineering.**
+Identify and describe at least three key milestones in the evolution of software engineering.
 Software engineering has grown and transformed over the years, thanks to major breakthroughs that have made software development more structured, efficient, and reliable. Here are three game-changing moments that helped shape the industry i.e The Birth of Software Engineering (1968) – Fixing the Chaos
 Back in the 1960s, software development was a bit of a mess. Projects were running over budget, full of bugs, and often ended in failure. This problem became known as the software crisis. In 1968, a NATO conference brought together experts to figure out a solution. That’s when the term software engineering was first introduced—emphasizing that software should be built with the same careful planning and discipline as traditional engineering. This moment was the start of treating software development as a serious, structured profession rather than just trial and error.
 The Rise of Structured Programming (1970s) – Making Code Easier to Manage
